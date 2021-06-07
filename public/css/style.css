@@ -1,0 +1,9 @@
+.try {
+  color: aquamarine;
+}
+.lable-nm {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+@media only screen and (min-width: 600px) {
+}
